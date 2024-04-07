@@ -1,0 +1,21 @@
+Hello Everyone, 
+I'm excited to share PowerBI dashboard on "HR Data Analysis ".
+
+ During the project below is the points cover in dashboard :-
+
+1] Employee Head Count
+2] Employee Head Count Genderwise
+3] Employee Head Count By Age
+4] Country
+5] Count Of Employee By BusinessUnit
+6] Count Of Employee 
+
+Skills used in the project include:
+
+Data Cleaning
+DAX & Calculated Columns
+Creation of Different Charts such as Bar Chart, Line Charts, Column charts,Pie Chart , Table etc.
+Creation of Slicers and Card Visual
+Creation of Measures
+Design and Development of Dashboard
+
